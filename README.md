@@ -1,22 +1,30 @@
-# 👋 Hi, I’m Jihar Gifari
+# 👋 Hi, I'm Jihar Gifari
 
-📚 I’m currently pursuing a Master's in Data Science at Leeds Beckett University, United Kingdom, where I am enhancing my skills in data science, machine learning, and data-driven decision-making.
+**Senior Applied Data Scientist & AI Engineer**
 
-💼 I have valuable industry experience, having worked as a Data Scientist at Shopee International Indonesia, where I specialized in predictive analytics, optimizing budget allocation, and crafting personalized marketing strategies.
+Helping companies optimise marketing & revenue with applied AI/ML.
 
-🏢 I've also contributed significantly as a Data Analyst at Bahana Sekuritas, leading projects to enhance customer analytics and sentiment analysis.
+## 🚀 What I Do
+- Marketing Mix Modeling & Revenue Optimisation
+- Consumer Analytics & Predictive Modeling
+- Machine Learning & AI Solutions
 
-📊 In addition to my professional roles, I'm actively engaged as a Data Science Tutor at Shift Academy, with over 1000 hours of teaching experience in data science, machine learning, and data analysis.
+## 💼 Experience
+- **Applied Data Scientist** @ ASK BOSCO® — Marketing AI for revenue optimisation
+- **Data Scientist** @ Shopee — Predictive analytics, budget allocation, personalised marketing
+- **Data Analyst** @ Bahana Sekuritas — Customer analytics & sentiment analysis
+- **Data Science Tutor** — 1000+ hours teaching ML & data analysis
 
-👯 I’m open to collaborations in the fields of data science and machine learning.
+## 🏆 Achievements
+- 1st Place, Global AI Competition (Ministry of Commerce, Saudi Arabia)
 
-💬 Feel free to ask me about regression, classification, clustering, recommender systems, or any other machine learning techniques.
+## 🛠️ Ask Me About
+Regression, classification, clustering, recommender systems, MMM, or anything ML.
 
-📫 You can reach out to me on LinkedIn: Jihar Gifari
-
-😄 Pronouns: He/His
+## 📫 Let's Connect
+- 🌐 [jihargifari.com](https://jihargifari.com)
+- 💼 [LinkedIn](https://linkedin.com/in/jihargifari)
 
 <!---
 jihar-gifari/jihar-gifari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
