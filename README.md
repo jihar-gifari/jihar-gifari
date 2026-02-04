@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jihar Gifari
 
-**Senior Applied Data Scientist & AI Engineer**
+**Senior Applied Data Scientist**
 
 Helping companies optimise marketing & revenue with applied AI/ML.
 
